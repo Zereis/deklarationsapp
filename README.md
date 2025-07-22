@@ -42,9 +42,6 @@ _Frontend körs nu på http://localhost:3000_
 Frontend kan enkelt deployas på t.ex. Vercel eller Netlify.  
 Backend kan deployas på valfri Java-kompatibel server.
 
-## Skärmdump
-
-![Skärmdump](https://i.imgur.com/iuRrg3k.png)
 
 ## Licens
 
